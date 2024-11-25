@@ -10,8 +10,9 @@ with open('cursos.json') as f:
 # parse x:
 
 for i in data:
+  choices = [-1,1]
   i['type'] = np.random.randint(0,5)
-  i['weeklyData'] = [round(i['hpw']*np.random.random(),1) + i['hpw'] for j in range(16)]
+  i['weeklyData'] = [np.random.choice(choices)*round(i['hpw']*np.random.random(),1) + i['hpw'] for j in range(16)]
   i['weeklyData'] = [round(i,1) for i in i['weeklyData']]
 
 with open('cursos3.json', 'a') as f:

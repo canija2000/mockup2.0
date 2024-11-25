@@ -37,7 +37,7 @@ export function CourseRow({ course, isExpanded, onToggle }: CourseRowProps) {
       </div>
       {isExpanded && (
         <div className="p-6 bg-gray-50 border-b border-gray-200">
-          <WeeklyGraph data={course.weeklyData} />
+          <WeeklyGraph data={course.weeklyData} meanLineValue={course.hpw} />
         </div>
       )}
     </>
