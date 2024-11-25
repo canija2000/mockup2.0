@@ -1,0 +1,1837 @@
+[
+    {
+        "id": "ICE1001",
+        "name": "Introduccion a la Ingenieria Estructural",
+        "cr": 10,
+        
+        "hpw": 15,
+        "type": "D5"
+    },
+    {
+        "id": "ICE1003",
+        "name": "Estatica",
+        "cr": 10,
+        
+        "hpw": 12,
+        "type": "D1"
+    },
+    {
+        "id": "ICE1013",
+        "name": "Dinamica",
+        "cr": 10,
+        
+        "hpw": 0,
+        "type": "D2"
+    },
+    {
+        "id": "ICE1302",
+        "name": "Mecanica de Solidos",
+        "cr": 10,
+        
+        "hpw": 15,
+        "type": "D2"
+    },
+    {
+        "id": "ICE1402",
+        "name": "Diseno Estructural",
+        "cr": 10,
+        
+        "hpw": 13,
+        "type": "D5"
+    },
+    {
+        "id": "ICE1513",
+        "name": "Estatica y Dinamica",
+        "cr": 10,
+        
+        "hpw": 9,
+        "type": "D1"
+    },
+    {
+        "id": "ICE1603",
+        "name": "Fundamentos de Geotecnia",
+        "cr": 10,
+        
+        "hpw": 5,
+        "type": "D5"
+    },
+    {
+        "id": "ICE2004",
+        "name": "Estatica",
+        "cr": 10,
+        
+        "hpw": 16,
+        "type": "D1"
+    },
+    {
+        "id": "ICE2005",
+        "name": "Mecanica Estructural",
+        "cr": 10,
+        
+        "hpw": 8,
+        "type": "D2"
+    },
+    {
+        "id": "ICE2013",
+        "name": "Estatica y Mecanica de Solidos",
+        "cr": 10,
+        
+        "hpw": 19,
+        "type": "D3"
+    },
+    {
+        "id": "ICE2020",
+        "name": "Introduccion a la Biomecanica",
+        "cr": 10,
+        
+        "hpw": 10,
+        "type": "D5"
+    },
+    {
+        "id": "ICE2021",
+        "name": "Biomecanica Computacional",
+        "cr": 10,
+        
+        "hpw": 18,
+        "type": "D4"
+    },
+    {
+        "id": "ICE2022",
+        "name": "Estratigrafia y Procesos Sedimentarios y Volcanicos",
+        "cr": 10,
+        
+        "hpw": 0,
+        "type": "D2"
+    },
+    {
+        "id": "ICE2023",
+        "name": "Geologia de Campo (Capstone)",
+        "cr": 10,
+        
+        "hpw": 7,
+        "type": "D4"
+    },
+    {
+        "id": "ICE2024",
+        "name": "Geologia y Geodinamica Andina",
+        "cr": 10,
+        
+        "hpw": 14,
+        "type": "D4"
+    },
+    {
+        "id": "ICE2025",
+        "name": "Geoquimica y Petrogenesis",
+        "cr": 10,
+        
+        "hpw": 13,
+        "type": "D2"
+    },
+    {
+        "id": "ICE2028",
+        "name": "Mineralogia y Petrologia",
+        "cr": 10,
+        
+        "hpw": 13,
+        "type": "D2"
+    },
+    {
+        "id": "ICE2029",
+        "name": "Procesos Superficiales y Peligros Geologicos",
+        "cr": 10,
+        
+        "hpw": 18,
+        "type": "D4"
+    },
+    {
+        "id": "ICE2113",
+        "name": "Analisis Estructural I",
+        "cr": 10,
+                "hpw": 16,
+        "type": "D4"
+    },
+    {
+        "id": "ICE2114",
+        "name": "Analisis Estructural I",
+        "cr": 10,
+                "hpw": 14,
+        "type": "D4"
+    },
+    {
+        "id": "ICE2134",
+        "name": "Modelacion Numerica en Ingenieria",
+        "cr": 10,
+        
+        "hpw": 11,
+        "type": "D3"
+    },
+    {
+        "id": "ICE2135",
+        "name": "Metodos Numericos en Ingenieria",
+        "cr": 10,
+        
+        "hpw": 8,
+        "type": "D2"
+    },
+    {
+        "id": "MIN050",
+        "name": "cr Minimos Especialidad",
+        "cr": 50,
+        
+        "hpw": 18,
+        "type": "D2"
+    },
+    {
+        "id": "OPR020",
+        "name": "Optativos de Especialidad",
+        "cr": 20,
+        
+        "hpw": 13,
+        "type": "D1"
+    },
+    {
+        "id": "OPT0400",
+        "name": "Optativos de Ing Civil (50cr)",
+        "cr": 50,
+        
+        "hpw": 9,
+        "type": "D4"
+    },
+    {
+        "id": "OPT0454",
+        "name": "Opt de Ing Hidraulica (20cr)",
+        "cr": 0,
+                "hpw": 3,
+        "type": "D4"
+    },
+    {
+        "id": "ING0001",
+        "name": "Curso Optativo de Ciencias",
+        "cr": 10,
+        
+        "hpw": 19,
+        "type": "D1"
+    },
+    {
+        "id": "ING0002",
+        "name": "Curso de Matematicas Aplicada",
+        "cr": 10,
+        
+        "hpw": 1,
+        "type": "D2"
+    },
+    {
+        "id": "ING0003",
+        "name": "Optativo de Especialidad",
+        "cr": 10,
+        
+        "hpw": 12,
+        "type": "D3"
+    },
+    {
+        "id": "ING0004",
+        "name": "Optativo de Especialidad",
+        "cr": 10,
+        
+        "hpw": 18,
+        "type": "D4"
+    },
+    {
+        "id": "ING0005",
+        "name": "Optativo de Amplitud",
+        "cr": 10,
+                "hpw": 3,
+        "type": "D1"
+    },
+    {
+        "id": "ING0006",
+        "name": "Optativo de Amplitud",
+        "cr": 20,
+        
+        "hpw": 8,
+        "type": "D1"
+    },
+    {
+        "id": "ING0007",
+        "name": "Optativo de Especialidad",
+        "cr": 5,
+        
+        "hpw": 0,
+        "type": "D1"
+    },
+    {
+        "id": "ING0008",
+        "name": "Optativo de Especialidad",
+        "cr": 5,
+        
+        "hpw": 5,
+        "type": "D5"
+    },
+    {
+        "id": "ING001M",
+        "name": "Evaluacion de Entrada de Precalculo y Algebra",
+        "cr": 0,
+        
+        "hpw": 13,
+        "type": "D5"
+    },
+    {
+        "id": "ING0600",
+        "name": "Trabajo Personal Dirigido",
+        "cr": 5,
+        
+        "hpw": 14,
+        "type": "D1"
+    },
+    {
+        "id": "ING0601",
+        "name": "Trabajo Personal Dirigido",
+        "cr": 5,
+                "hpw": 3,
+        "type": "D3"
+    },
+    {
+        "id": "ING0700",
+        "name": "Investigacion o Proyecto",
+        "cr": 10,
+        
+        "hpw": 9,
+        "type": "D1"
+    },
+    {
+        "id": "ING0701",
+        "name": "Investigacion o Proyecto",
+        "cr": 10,
+        
+        "hpw": 19,
+        "type": "D2"
+    },
+    {
+        "id": "ING0800",
+        "name": "Investigacion o Proyecto",
+        "cr": 20,
+        
+        "hpw": 3,
+        "type": "D4"
+    },
+    {
+        "id": "ING0900",
+        "name": "Pasantia de Investigacion",
+        "cr": 10,
+        
+        "hpw": 11,
+        "type": "D5"
+    },
+    {
+        "id": "ING0901",
+        "name": "Pasantia de Investigacion Nacional",
+        "cr": 10,
+                "hpw": 12,
+        "type": "D4"
+    },
+    {
+        "id": "ING0902",
+        "name": "Pasantia de Investigacion en el Extranjero",
+        "cr": 10,
+                "hpw": 18,
+        "type": "D3"
+    },
+    {
+        "id": "ING0903",
+        "name": "Pasantia de Investigacion en Empresa",
+        "cr": 10,
+        
+        "hpw": 5,
+        "type": "D2"
+    },
+    {
+        "id": "ING0904",
+        "name": "Iniciativas de Investigacion Estudiantiles",
+        "cr": 10,
+        
+        "hpw": 17,
+        "type": "D4"
+    },
+    {
+        "id": "ING0905",
+        "name": "Cmd Iniciativas de Investigacion en Pregrado",
+        "cr": 10,
+        
+        "hpw": 9,
+        "type": "D4"
+    },
+    {
+        "id": "ING0906",
+        "name": "Cmd Investigacion o Proyecto Interdisciplinario",
+        "cr": 10,
+        
+        "hpw": 6,
+        "type": "D5"
+    },
+    {
+        "id": "ING0911",
+        "name": "Pasantia de Investigacion Nacional",
+        "cr": 10,
+        
+        "hpw": 0,
+        "type": "D3"
+    },
+    {
+        "id": "ING0912",
+        "name": "Pasantia de Investigacion en el Extranjero",
+        "cr": 10,
+                "hpw": 8,
+        "type": "D5"
+    },
+    {
+        "id": "ING0913",
+        "name": "Pasantia de Investigacion en Empresa",
+        "cr": 10,
+        
+        "hpw": 15,
+        "type": "D3"
+    },
+    {
+        "id": "ING0914",
+        "name": "Iniciativas de Investigacion Estudiantiles",
+        "cr": 10,
+        
+        "hpw": 1,
+        "type": "D5"
+    },
+    {
+        "id": "ING0915",
+        "name": "Cmd Iniciativas de Investigacion en Pregrado",
+        "cr": 10,
+        
+        "hpw": 7,
+        "type": "D5"
+    },
+    {
+        "id": "ING0916",
+        "name": "Cmd Investigacion o Proyecto Interdisciplinario",
+        "cr": 10,
+        
+        "hpw": 20,
+        "type": "D2"
+    },
+    {
+        "id": "ING1001",
+        "name": "Practica I",
+        "cr": 0,
+        
+        "hpw": 6,
+        "type": "D2"
+    },
+    {
+        "id": "ING1003",
+        "name": "Desafios de la Ingenieria",
+        "cr": 10,
+        
+        "hpw": 8,
+        "type": "D5"
+    },
+    {
+        "id": "ING1004",
+        "name": "Desafios de la Ingenieria",
+        "cr": 10,
+                "hpw": 12,
+        "type": "D4"
+    },
+    {
+        "id": "ING1011",
+        "name": "Orientaciones Generales para la Practica I",
+        "cr": 0,
+        
+        "hpw": 4,
+        "type": "D4"
+    },
+    {
+        "id": "ING1015",
+        "name": "Pensamiento Visual",
+        "cr": 10,
+        
+        "hpw": 18,
+        "type": "D5"
+    },
+    {
+        "id": "ING1024",
+        "name": "Propiedades y Resistencia de Materiales",
+        "cr": 10,
+        
+        "hpw": 20,
+        "type": "D5"
+    },
+    {
+        "id": "ING1100",
+        "name": "Taller de Habitos y Estrategias de Estudio",
+        "cr": 5,
+        
+        "hpw": 12,
+        "type": "D4"
+    },
+    {
+        "id": "ING1110",
+        "name": "Taller de Habitos y Estrategias de Estudio",
+        "cr": 0,
+        
+        "hpw": 12,
+        "type": "D1"
+    },
+    {
+        "id": "ING1501",
+        "name": "Practica de Licenciatura",
+        "cr": 0,
+        
+        "hpw": 9,
+        "type": "D2"
+    },
+    {
+        "id": "ING2001",
+        "name": "Practica II",
+        "cr": 0,
+        
+        "hpw": 16,
+        "type": "D4"
+    },
+    {
+        "id": "ING2004",
+        "name": "Dilab - Laboratorio Dise\u00f1o en Ingenieria y Sistemas",
+        "cr": 10,
+        
+        "hpw": 1,
+        "type": "D1"
+    },
+    {
+        "id": "ING2005",
+        "name": "Taller de Empleabilidad",
+        "cr": 0,
+        
+        "hpw": 13,
+        "type": "D1"
+    },
+    {
+        "id": "ING2010",
+        "name": "Gestion del Deporte",
+        "cr": 10,
+        
+        "hpw": 10,
+        "type": "D4"
+    },
+    {
+        "id": "ING2013",
+        "name": "Comunicacion Profesional",
+        "cr": 10,
+        
+        "hpw": 14,
+        "type": "D4"
+    },
+    {
+        "id": "ING2015",
+        "name": "Antro-Dise\u00f1o",
+        "cr": 10,
+        
+        "hpw": 18,
+        "type": "D4"
+    },
+    {
+        "id": "ING2021",
+        "name": "Necesidades y Oportunidades",
+        "cr": 10,
+        
+        "hpw": 14,
+        "type": "D2"
+    },
+    {
+        "id": "ING2022",
+        "name": "Taller de Innovacion (Capstone)",
+        "cr": 10,
+        
+        "hpw": 6,
+        "type": "D4"
+    },
+    {
+        "id": "ING2025",
+        "name": "Tecnologia, Emprendimiento y Dise\u00f1o",
+        "cr": 10,
+        
+        "hpw": 12,
+        "type": "D1"
+    },
+    {
+        "id": "ING2030",
+        "name": "Investigacion, Innovacion y Emprendimiento",
+        "cr": 10,
+        
+        "hpw": 5,
+        "type": "D5"
+    },
+    {
+        "id": "ING2985",
+        "name": "Curso de Reposicion Ingenieria",
+        "cr": 10,
+        
+        "hpw": 8,
+        "type": "D5"
+    },
+    {
+        "id": "ING2986",
+        "name": "Curso de Reposicion Ingenieria",
+        "cr": 20,
+        
+        "hpw": 5,
+        "type": "D2"
+    },
+    {
+        "id": "ING2994",
+        "name": "Investigacion o Proyecto",
+        "cr": 10,
+        
+        "hpw": 6,
+        "type": "D2"
+    },
+    {
+        "id": "ING3001",
+        "name": "Optativo de Ingenieria",
+        "cr": 10,
+        
+        "hpw": 11,
+        "type": "D4"
+    },
+    {
+        "id": "ING3002",
+        "name": "Optativo de Ingenieria",
+        "cr": 20,
+        
+        "hpw": 2,
+        "type": "D2"
+    },
+    {
+        "id": "ING3003",
+        "name": "Optativo de Ingenieria",
+        "cr": 30,
+        
+        "hpw": 17,
+        "type": "D3"
+    },
+    {
+        "id": "ING3004",
+        "name": "Optativo de Ingenieria",
+        "cr": 40,
+        
+        "hpw": 13,
+        "type": "D4"
+    },
+    {
+        "id": "ING3005",
+        "name": "Optativo de Ingenieria",
+        "cr": 5,
+        
+        "hpw": 18,
+        "type": "D1"
+    },
+    {
+        "id": "IPP1000",
+        "name": "Practica Preprofesional I",
+        "cr": 0,
+        
+        "hpw": 18,
+        "type": "D1"
+    },
+    {
+        "id": "IPP2000",
+        "name": "Practica Preprofesional II",
+        "cr": 0,
+        
+        "hpw": 0,
+        "type": "D2"
+    },
+    {
+        "id": "IRB1001",
+        "name": "Introduccion a la Robotica",
+        "cr": 10,
+        
+        "hpw": 2,
+        "type": "D2"
+    },
+    {
+        "id": "IRB2001",
+        "name": "Fundamentos de Robotica",
+        "cr": 10,
+        
+        "hpw": 11,
+        "type": "D2"
+    },
+    {
+        "id": "IRB2002",
+        "name": "Dise\u00f1o de Sistemas Roboticos (Capstone)",
+        "cr": 10,
+        
+        "hpw": 2,
+        "type": "D3"
+    },
+    {
+        "id": "IMA2504",
+        "name": "Taller Computacional de Ecuaciones Diferenciales Parciales",
+        "cr": 0,
+        
+        "hpw": 14,
+        "type": "D5"
+    },
+    {
+        "id": "IMC1202",
+        "name": "Planificacion y Control de Proyectos",
+        "cr": 10,
+        
+        "hpw": 17,
+        "type": "D2"
+    },
+    {
+        "id": "IMM0020",
+        "name": "Investigacion o Proyecto",
+        "cr": 20,
+        
+        "hpw": 14,
+        "type": "D3"
+    },
+    {
+        "id": "IMM1000",
+        "name": "Introduccion a la Mineria",
+        "cr": 10,
+        
+        "hpw": 6,
+        "type": "D2"
+    },
+    {
+        "id": "IMM1003",
+        "name": "Introduccion a la Mineria",
+        "cr": 10,
+        
+        "hpw": 18,
+        "type": "D3"
+    },
+    {
+        "id": "IMM2000",
+        "name": "Geologia Minera",
+        "cr": 10,
+        
+        "hpw": 14,
+        "type": "D3"
+    },
+    {
+        "id": "IMM2003",
+        "name": "Geologia Minera",
+        "cr": 10,
+        
+        "hpw": 17,
+        "type": "D1"
+    },
+    {
+        "id": "IMM2012",
+        "name": "Mineria a Cielo Abierto",
+        "cr": 10,
+        
+        "hpw": 14,
+        "type": "D3"
+    },
+    {
+        "id": "IMM2013",
+        "name": "Mineria a Cielo Abierto",
+        "cr": 10,
+        
+        "hpw": 1,
+        "type": "D2"
+    },
+    {
+        "id": "IMM2015",
+        "name": "Mineria Subterranea",
+        "cr": 10,
+        
+        "hpw": 14,
+        "type": "D2"
+    },
+    {
+        "id": "IMM2022",
+        "name": "Procesos Mineralurgicos",
+        "cr": 10,
+        
+        "hpw": 16,
+        "type": "D4"
+    },
+    {
+        "id": "IMM2023",
+        "name": "Procesos Mineralurgicos",
+        "cr": 10,
+        
+        "hpw": 10,
+        "type": "D5"
+    },
+    {
+        "id": "IMM2025",
+        "name": "Procesos Metalurgicos",
+        "cr": 10,
+        
+        "hpw": 15,
+        "type": "D2"
+    },
+    {
+        "id": "IMM2032",
+        "name": "Geoestadistica",
+        "cr": 10,
+        
+        "hpw": 7,
+        "type": "D1"
+    },
+    {
+        "id": "IMM2033",
+        "name": "Geoestadistica",
+        "cr": 10,
+        
+        "hpw": 4,
+        "type": "D2"
+    },
+    {
+        "id": "IMM2043",
+        "name": "Mineria Subterranea",
+        "cr": 10,
+        
+        "hpw": 15,
+        "type": "D2"
+    },
+    {
+        "id": "IMM2053",
+        "name": "Procesos Metalurgicos",
+        "cr": 10,
+        
+        "hpw": 11,
+        "type": "D3"
+    },
+    {
+        "id": "IMM2063",
+        "name": "Procesos Mineralurgicos y Metalurgicos",
+        "cr": 10,
+                "hpw": 11,
+        "type": "D4"
+    },
+    {
+        "id": "IMM2075",
+        "name": "Excelencia Operacional Aplicada a la Mineria",
+        "cr": 5,
+        
+        "hpw": 4,
+        "type": "D3"
+    },
+    {
+        "id": "IMM2103",
+        "name": "Gestion Ambiental",
+        "cr": 10,
+        
+        "hpw": 16,
+        "type": "D1"
+    },
+    {
+        "id": "IMM2200",
+        "name": "Competencias para la Vida y el Trabajo en Mineria",
+        "cr": 10,
+        
+        "hpw": 4,
+        "type": "D3"
+    },
+    {
+        "id": "IMM2213",
+        "name": "Fundamentos de la Economia de Minerales",
+        "cr": 10,
+        
+        "hpw": 7,
+        "type": "D1"
+    },
+    {
+        "id": "IMM2370",
+        "name": "Ventilacion de Minas",
+        "cr": 10,
+        
+        "hpw": 18,
+        "type": "D4"
+    },
+    {
+        "id": "IMM2403",
+        "name": "Proyecto Minero (Capstone)",
+        "cr": 10,
+        
+        "hpw": 0,
+        "type": "D1"
+    },
+    {
+        "id": "IMM2500",
+        "name": "Perforacion y Tronadura",
+        "cr": 10,
+        
+        "hpw": 16,
+        "type": "D1"
+    },
+    {
+        "id": "IMM2503",
+        "name": "Perforacion y Tronadura",
+        "cr": 10,
+        
+        "hpw": 8,
+        "type": "D4"
+    },
+    {
+        "id": "IMM2521",
+        "name": "Tecnologias Mineras",
+        "cr": 10,
+        
+        "hpw": 4,
+        "type": "D3"
+    },
+    {
+        "id": "IMM2600",
+        "name": "Aplicaciones Computacionales en Mineria",
+        "cr": 10,
+        
+        "hpw": 2,
+        "type": "D1"
+    },
+    {
+        "id": "IMM2650",
+        "name": "Metodos Matematicos Aplicados a la Ingenieria",
+        "cr": 10,
+        
+        "hpw": 12,
+        "type": "D2"
+    },
+    {
+        "id": "IMM2660",
+        "name": "Metodos Matematicos Aplicados a Ingenieria II",
+        "cr": 10,
+        
+        "hpw": 15,
+        "type": "D4"
+    },
+    {
+        "id": "IMM2700",
+        "name": "Gestion de Activos Fisicos",
+        "cr": 10,
+                "hpw": 19,
+        "type": "D4"
+    },
+    {
+        "id": "IMM2803",
+        "name": "Seguridad Minera e Higiene Industrial",
+        "cr": 10,
+        
+        "hpw": 14,
+        "type": "D4"
+    },
+    {
+        "id": "IMM2972",
+        "name": "Trabajo Personal Dirigido",
+        "cr": 5,
+        
+        "hpw": 20,
+        "type": "D5"
+    },
+    {
+        "id": "IMM2973",
+        "name": "Trabajo Personal Dirigido",
+        "cr": 5,
+                "hpw": 16,
+        "type": "D5"
+    },
+    {
+        "id": "IMM2985",
+        "name": "Investigacion o Proyecto",
+        "cr": 10,
+        
+        "hpw": 20,
+        "type": "D4"
+    },
+    {
+        "id": "IMM2986",
+        "name": "Investigacion o Proyecto",
+        "cr": 10,
+        
+        "hpw": 0,
+        "type": "D3"
+    },
+    {
+        "id": "IMM2987",
+        "name": "Investigacion o Proyecto",
+        "cr": 10,
+        
+        "hpw": 12,
+        "type": "D1"
+    },
+    {
+        "id": "MAP010",
+        "name": "Requisito Matematicas Aplicadas",
+        "cr": 10,
+        
+        "hpw": 7,
+        "type": "D4"
+    },
+    {
+        "id": "IMT0020",
+        "name": "Investigacion o Proyecto",
+        "cr": 20,
+        
+        "hpw": 1,
+        "type": "D5"
+    },
+    {
+        "id": "IMT1001",
+        "name": "Introduccion a la Ingenieria Matematica",
+        "cr": 10,
+        
+        "hpw": 8,
+        "type": "D5"
+    },
+    {
+        "id": "IMT2100",
+        "name": "Aplicaciones de Analisis Funcional y Ecuaciones Diferenciales Parciales en Ingenieria",
+        "cr": 10,
+        
+        "hpw": 10,
+        "type": "D5"
+    },
+    {
+        "id": "IMT2111",
+        "name": "Algebra Lineal Numerica",
+        "cr": 10,
+        
+        "hpw": 20,
+        "type": "D4"
+    },
+    {
+        "id": "IMT2112",
+        "name": "Algoritmos Paralelos en Computacion Cientifica",
+        "cr": 10,
+        
+        "hpw": 15,
+        "type": "D3"
+    },
+    {
+        "id": "IMT2113",
+        "name": "Analisis de Fourier Aplicado",
+        "cr": 10,
+        
+        "hpw": 12,
+        "type": "D1"
+    },
+    {
+        "id": "IMT2115",
+        "name": "Control de Sistemas Lineales",
+        "cr": 10,
+        
+        "hpw": 19,
+        "type": "D1"
+    },
+    {
+        "id": "IMT2116",
+        "name": "Taller de Matematicas Aplicadas (Capstone)",
+        "cr": 10,
+        
+        "hpw": 6,
+        "type": "D5"
+    },
+    {
+        "id": "IMT2972",
+        "name": "Trabajo Personal Dirigido",
+        "cr": 5,
+        
+        "hpw": 14,
+        "type": "D4"
+    },
+    {
+        "id": "IMT2981",
+        "name": "Trabajo Personal Dirigido",
+        "cr": 5,
+        
+        "hpw": 6,
+        "type": "D2"
+    },
+    {
+        "id": "IMT2985",
+        "name": "Investigacion o Proyecto",
+        "cr": 10,
+        
+        "hpw": 4,
+        "type": "D3"
+    },
+    {
+        "id": "IMT2986",
+        "name": "Investigacion o Proyecto",
+        "cr": 10,
+        
+        "hpw": 13,
+        "type": "D1"
+    },
+    {
+        "id": "IMT2987",
+        "name": "Investigacion o Proyecto",
+        "cr": 10,
+        
+        "hpw": 10,
+        "type": "D2"
+    },
+    {
+        "id": "IDI2995",
+        "name": "Mentalidad y Metodos de Emprendimiento",
+        "cr": 10,
+                "hpw": 18,
+        "type": "D1"
+    },
+    {
+        "id": "ING2045",
+        "name": "Introduccion a la Sustentabilidad",
+        "cr": 10,
+                "hpw": 15,
+        "type": "D1"
+    },
+    {
+        "id": "ING2055",
+        "name": "Analisis y Aplicacion de Observaciones Geoespaciales",
+        "cr": 10,
+        
+        "hpw": 17,
+        "type": "D4"
+    },
+    {
+        "id": "IIC2685",
+        "name": "Robotica Movil",
+        "cr": 10,
+        
+        "hpw": 7,
+        "type": "D2"
+    },
+    {
+        "id": "IDI1015",
+        "name": "Pensamiento Visual",
+        "cr": 10,
+        
+        "hpw": 10,
+        "type": "D5"
+    },
+    {
+        "id": "IDI2015",
+        "name": "Antro-Dise\u00f1o",
+        "cr": 10,
+        
+        "hpw": 17,
+        "type": "D4"
+    },
+    {
+        "id": "IDI2004",
+        "name": "Dilab-Laboratorio Dise\u00f1o en Ingenieria y Sistemas",
+        "cr": 10,
+        
+        "hpw": 18,
+        "type": "D1"
+    },
+    {
+        "id": "IDI2025",
+        "name": "Tecnologia, Emprendimiento y Dise\u00f1o",
+        "cr": 10,
+        
+        "hpw": 12,
+        "type": "D3"
+    },
+    {
+        "id": "IBM2029",
+        "name": "Dispositivos Medicos",
+        "cr": 10,
+        
+        "hpw": 2,
+        "type": "D1"
+    },
+    {
+        "id": "ING2040",
+        "name": "CMD Emprendimiento Social y Empresas B",
+        "cr": 10,
+        
+        "hpw": 16,
+        "type": "D1"
+    },
+    {
+        "id": "IEE2473",
+        "name": "Laboratorio de Electronica Analogica y Digital",
+        "cr": 5,
+        
+        "hpw": 16,
+        "type": "D3"
+    },
+    {
+        "id": "IEE2393",
+        "name": "Redes Inteligentes para Energia Sustentable",
+        "cr": 10,
+        
+        "hpw": 20,
+        "type": "D5"
+    },
+    {
+        "id": "IEE2463",
+        "name": "Sistemas Electronicos Programables",
+        "cr": 10,
+        
+        "hpw": 11,
+        "type": "D2"
+    },
+    {
+        "id": "ING2062",
+        "name": "Convenio Duoc UC-Ingenieria",
+        "cr": 10,
+                "hpw": 5,
+        "type": "D1"
+    },
+    {
+        "id": "IMM2583",
+        "name": "Taller de Planificacion Minera (Capstone)",
+        "cr": 10,
+        
+        "hpw": 16,
+        "type": "D3"
+    },
+    {
+        "id": "ICE2880",
+        "name": "Proyecto de Dise\u00f1o Estructural y Geotecnico",
+        "cr": 10,
+                "hpw": 3,
+        "type": "D5"
+    },
+    {
+        "id": "ING0009",
+        "name": "Optativo de Biologia",
+        "cr": 5,
+        
+        "hpw": 19,
+        "type": "D5"
+    },
+    {
+        "id": "ING0010",
+        "name": "Optativo de Biologia",
+        "cr": 5,
+        
+        "hpw": 2,
+        "type": "D3"
+    },
+    {
+        "id": "ICH2611",
+        "name": "Cambio Climatico: Un Enfoque Multidisciplinario",
+        "cr": 10,
+        
+        "hpw": 18,
+        "type": "D5"
+    },
+    {
+        "id": "ICS2870",
+        "name": "Entornos Digitales y Marketing Electronico",
+        "cr": 10,
+        
+        "hpw": 17,
+        "type": "D3"
+    },
+    {
+        "id": "IIQ2633",
+        "name": "Quimica y Analisis de Alimentos",
+        "cr": 10,
+        
+        "hpw": 15,
+        "type": "D4"
+    },
+    {
+        "id": "IEE2433",
+        "name": "Dise\u00f1o de Circuitos Integrados Analogicos",
+        "cr": 10,
+        
+        "hpw": 7,
+        "type": "D3"
+    },
+    {
+        "id": "ICS2972",
+        "name": "Trabajo de Personal Dirigido",
+        "cr": 5,
+        
+        "hpw": 1,
+        "type": "D2"
+    },
+    {
+        "id": "ICS2133",
+        "name": "Fundamentos de Simulacion de Sistemas Estocasticos",
+        "cr": 10,
+        
+        "hpw": 19,
+        "type": "D2"
+    },
+    {
+        "id": "ING2983",
+        "name": "Dise\u00f1o Colaborativo en AIC (Arquitectura, Ingenieria y Construccion) (Capstone)",
+        "cr": 10,
+        
+        "hpw": 3,
+        "type": "D4"
+    },
+    {
+        "id": "ICS2125",
+        "name": "Estrategias para la Innovacion en el Dise\u00f1o de Productos Eficientes y Sustentables",
+        "cr": 10,
+        
+        "hpw": 14,
+        "type": "D5"
+    },
+    {
+        "id": "IEE2753",
+        "name": "Dise\u00f1o de Circuitos Integrados Digitales",
+        "cr": 10,
+        
+        "hpw": 5,
+        "type": "D4"
+    },
+    {
+        "id": "ICS113H",
+        "name": "Optimizacion-Honors",
+        "cr": 10,
+        
+        "hpw": 18,
+        "type": "D1"
+    },
+    {
+        "id": "IBM2992",
+        "name": "Biologia Sintetica y Prototipado de Funciones Biologicas Artificiales",
+        "cr": 10,
+        
+        "hpw": 12,
+        "type": "D1"
+    },
+    {
+        "id": "ING2050",
+        "name": "Desarrollo y Aplicaciones de Sistemas Aereos No Tripulados",
+        "cr": 10,
+        
+        "hpw": 6,
+        "type": "D4"
+    },
+    {
+        "id": "ICS2009",
+        "name": "Dinamica de Sistemas de Negocios",
+        "cr": 10,
+        
+        "hpw": 9,
+        "type": "D4"
+    },
+    {
+        "id": "IIQ2930",
+        "name": "Introduccion a la Ingenieria Gastronomica",
+        "cr": 10,
+        
+        "hpw": 4,
+        "type": "D5"
+    },
+    {
+        "id": "ICM2240",
+        "name": "Fundamentos de Dinamica de Fluidos Computacional",
+        "cr": 10,
+        
+        "hpw": 2,
+        "type": "D2"
+    },
+    {
+        "id": "IMT2565",
+        "name": "Optimizacion Combinatorial",
+        "cr": 10,
+                "hpw": 17,
+        "type": "D4"
+    },
+    {
+        "id": "IIQ2723",
+        "name": "Ingenieria de Alimentos",
+        "cr": 10,
+                "hpw": 6,
+        "type": "D5"
+    },
+    {
+        "id": "IBM2020",
+        "name": "Introduccion a la Biomecanica",
+        "cr": 10,
+        
+        "hpw": 1,
+        "type": "D3"
+    },
+    {
+        "id": "ICM2316",
+        "name": "Introduccion al Dise\u00f1o Grafico",
+        "cr": 5,
+        
+        "hpw": 15,
+        "type": "D4"
+    },
+    {
+        "id": "IEE1533",
+        "name": "Fundamentos de Teoria Electromagnetica",
+        "cr": 10,
+        
+        "hpw": 11,
+        "type": "D5"
+    },
+    {
+        "id": "IIC2026",
+        "name": "Visualizacion de Informacion",
+        "cr": 10,
+        
+        "hpw": 9,
+        "type": "D2"
+    },
+    {
+        "id": "IMM2895",
+        "name": "Mineria Block Caving y sus Variantes",
+        "cr": 5,
+        
+        "hpw": 8,
+        "type": "D4"
+    },
+    {
+        "id": "ING0907",
+        "name": "Investigacion en Pregrado UC Propone Ingenieria",
+        "cr": 10,
+        
+        "hpw": 3,
+        "type": "D2"
+    },
+    {
+        "id": "ING1111",
+        "name": "Introduccion al Aprendizaje Universitario",
+        "cr": 0,
+        
+        "hpw": 13,
+        "type": "D5"
+    },
+    {
+        "id": "ICE1514",
+        "name": "Dinamica",
+        "cr": 10,
+        
+        "hpw": 19,
+        "type": "D3"
+    },
+    {
+        "id": "IIQ103H",
+        "name": "Termodinamica Honors",
+        "cr": 10,
+        
+        "hpw": 20,
+        "type": "D2"
+    },
+    {
+        "id": "IIC1001",
+        "name": "Algoritmos y Sistemas Computacionales",
+        "cr": 5,
+        
+        "hpw": 8,
+        "type": "D2"
+    },
+    {
+        "id": "IIC2001",
+        "name": "Practica de Ciencia de la Computacion I",
+        "cr": 5,
+        
+        "hpw": 0,
+        "type": "D3"
+    },
+    {
+        "id": "IIC2002",
+        "name": "Practica de Ciencia de la Computacion",
+        "cr": 10,
+                "hpw": 0,
+        "type": "D4"
+    },
+    {
+        "id": "IIC2164",
+        "name": "Proyecto de Innovacion y Computacion",
+        "cr": 10,
+        
+        "hpw": 5,
+        "type": "D2"
+    },
+    {
+        "id": "IDI2031",
+        "name": "Prototipado y Validacion de Innovaciones Tecnologicas",
+        "cr": 10,
+        
+        "hpw": 5,
+        "type": "D1"
+    },
+    {
+        "id": "ICS2031",
+        "name": "Estrategia y Comercializacion de Innovaciones Tecnologicas",
+        "cr": 10,
+        
+        "hpw": 19,
+        "type": "D4"
+    },
+    {
+        "id": "ICS2032",
+        "name": "Financiamiento y Creacion de Start-Ups",
+        "cr": 10,
+        
+        "hpw": 10,
+        "type": "D5"
+    },
+    {
+        "id": "ING2031",
+        "name": "Vigilancia Tecnologica e Inteligencia Competitiva",
+        "cr": 5,
+        
+        "hpw": 6,
+        "type": "D5"
+    },
+    {
+        "id": "IIC2182",
+        "name": "Interfaces y Experiencia de Usuarios",
+        "cr": 10,
+        
+        "hpw": 2,
+        "type": "D2"
+    },
+    {
+        "id": "IIC2214",
+        "name": "Teoria de la Computacion",
+        "cr": 10,
+        
+        "hpw": 18,
+        "type": "D2"
+    },
+    {
+        "id": "IIC2224",
+        "name": "Automatas y Compiladores",
+        "cr": 10,
+        
+        "hpw": 5,
+        "type": "D3"
+    },
+    {
+        "id": "IIC2293",
+        "name": "Algoritmos Avanzados",
+        "cr": 10,
+        
+        "hpw": 15,
+        "type": "D4"
+    },
+    {
+        "id": "IIC2531",
+        "name": "Seguridad Computacional",
+        "cr": 10,
+        
+        "hpw": 0,
+        "type": "D5"
+    },
+    {
+        "id": "IIC2560",
+        "name": "Fundamentos de Lenguajes de Programacion",
+        "cr": 10,
+        
+        "hpw": 9,
+        "type": "D1"
+    },
+    {
+        "id": "IBM2222",
+        "name": "Dise\u00f1o en Ingenieria Biologica (Capstone)",
+        "cr": 10,
+        
+        "hpw": 12,
+        "type": "D3"
+    },
+    {
+        "id": "IFI1001",
+        "name": "Introduccion a la Ingenieria Fisica",
+        "cr": 10,
+        
+        "hpw": 3,
+        "type": "D2"
+    },
+    {
+        "id": "ICE2026",
+        "name": "Geologia de Campo I (Capstone)",
+        "cr": 5,
+        
+        "hpw": 7,
+        "type": "D2"
+    },
+    {
+        "id": "ICE2027",
+        "name": "Geologia de Campo II (Capstone)",
+        "cr": 5,
+        
+        "hpw": 18,
+        "type": "D3"
+    },
+    {
+        "id": "ING102G",
+        "name": "Maravillas Tecnologicas de la Vida Cotidiana",
+        "cr": 10,
+        
+        "hpw": 12,
+        "type": "D3"
+    },
+    {
+        "id": "ING101G",
+        "name": "UC-Lab: Soluciones Creativas Para Desafios de la Humanidad",
+        "cr": 10,
+        
+        "hpw": 19,
+        "type": "D4"
+    },
+    {
+        "id": "IIC100G",
+        "name": "En Busqueda del Bienestar: \u00f1Que nos Dice la Ciencia\u00f1",
+        "cr": 10,
+        
+        "hpw": 17,
+        "type": "D5"
+    },
+    {
+        "id": "ICS2563",
+        "name": "Econometria Aplicada",
+        "cr": 10,
+        
+        "hpw": 6,
+        "type": "D2"
+    },
+    {
+        "id": "IDI2996",
+        "name": "Fundamentos Sociales y Tecnicos de la Innovacion",
+        "cr": 10,
+        
+        "hpw": 5,
+        "type": "D4"
+    },
+    {
+        "id": "ICM1002",
+        "name": "Dise\u00f1o Grafico en Ingenieria Mecanica",
+        "cr": 10,
+        
+        "hpw": 15,
+        "type": "D5"
+    },
+    {
+        "id": "IIC100B",
+        "name": "Pensamiento Computacional y Habilidades Digitales",
+        "cr": 5,
+        
+        "hpw": 6,
+        "type": "D5"
+    },
+    {
+        "id": "ICC1001",
+        "name": "Introduccion a la Ingenieria Civil",
+        "cr": 10,
+        
+        "hpw": 13,
+        "type": "D1"
+    },
+    {
+        "id": "ICE2006",
+        "name": "Estatica",
+        "cr": 10,
+        
+        "hpw": 7,
+        "type": "D1"
+    },
+    {
+        "id": "ICH2604",
+        "name": "Principios de Tratamiento de Agua",
+        "cr": 10,
+        
+        "hpw": 9,
+        "type": "D2"
+    },
+    {
+        "id": "IMM2073",
+        "name": "Mineria Sustentable",
+        "cr": 10,
+        
+        "hpw": 17,
+        "type": "D2"
+    },
+    {
+        "id": "IMM2083",
+        "name": "Mecanica de Rocas para Mineria",
+        "cr": 10,
+        
+        "hpw": 9,
+        "type": "D1"
+    },
+    {
+        "id": "IRB0600",
+        "name": "Trabajo Personal Dirigido",
+        "cr": 5,
+        
+        "hpw": 8,
+        "type": "D4"
+    },
+    {
+        "id": "IRB0601",
+        "name": "Trabajo Personal Dirigido",
+        "cr": 5,
+        
+        "hpw": 8,
+        "type": "D4"
+    },
+    {
+        "id": "IRB0700",
+        "name": "Investigacion o Proyecto",
+        "cr": 10,
+        
+        "hpw": 13,
+        "type": "D5"
+    },
+    {
+        "id": "IRB0701",
+        "name": "Investigacion o Proyecto",
+        "cr": 10,
+        
+        "hpw": 18,
+        "type": "D1"
+    },
+    {
+        "id": "IBM2011",
+        "name": "Laboratorio Ingenieria Biomedica",
+        "cr": 10,
+        
+        "hpw": 10,
+        "type": "D5"
+    },
+    {
+        "id": "ICH1001",
+        "name": "Introduccion a la Ingenieria Civil",
+        "cr": 10,
+                "hpw": 9,
+        "type": "D3"
+    },
+    {
+        "id": "IMT2117",
+        "name": "Probabilidades y Algoritmos",
+        "cr": 10,
+        
+        "hpw": 20,
+        "type": "D2"
+    },
+    {
+        "id": "IRB1010",
+        "name": "Introduccion Exploratoria a la Robotica",
+        "cr": 10,
+        
+        "hpw": 2,
+        "type": "D2"
+    },
+    {
+        "id": "ING1500",
+        "name": "Examen de Titulo",
+        "cr": 0,
+        
+        "hpw": 11,
+        "type": "D3"
+    },
+    {
+        "id": "IIC2553",
+        "name": "Taller de Programacion Competitiva II",
+        "cr": 5,
+        
+        "hpw": 12,
+        "type": "D3"
+    },
+    {
+        "id": "IEE2544",
+        "name": "Redes de Comunicaciones Digitales",
+        "cr": 10,
+                "hpw": 0,
+        "type": "D1"
+    },
+    {
+        "id": "ICM100G",
+        "name": "Manufactura para la Fabricacion",
+        "cr": 10,
+        
+        "hpw": 14,
+        "type": "D2"
+    },
+    {
+        "id": "ING2020",
+        "name": "Tecnologia y Sociedad",
+        "cr": 10,
+        
+        "hpw": 9,
+        "type": "D3"
+    },
+    {
+        "id": "IIQ2643",
+        "name": "Procesamiento de Alimentos",
+        "cr": 10,
+        
+        "hpw": 14,
+        "type": "D3"
+    },
+    {
+        "id": "IIC2440",
+        "name": "Procesamiento de Datos Masivos",
+        "cr": 10,
+        
+        "hpw": 15,
+        "type": "D1"
+    },
+    {
+        "id": "IFI2122",
+        "name": "Taller de Ingenieria Fisica (Capstone)",
+        "cr": 10,
+        
+        "hpw": 1,
+        "type": "D5"
+    },
+    {
+        "id": "IMT2310",
+        "name": "Algebra Abstracta y Aplicaciones",
+        "cr": 10,
+        
+        "hpw": 7,
+        "type": "D5"
+    },
+    {
+        "id": "ICH2613",
+        "name": "CMD Cambio Climatico: un Enfoque Multidisciplinario",
+        "cr": 10,
+        
+        "hpw": 2,
+        "type": "D3"
+    },
+    {
+        "id": "ESM01IN",
+        "name": "Planificacion y Control de Proyectos",
+        "cr": 0,
+        
+        "hpw": 11,
+        "type": "D4"
+    },
+    {
+        "id": "ESM02IN",
+        "name": "Introduccion a la Programacion",
+        "cr": 7,
+        
+        "hpw": 14,
+        "type": "D4"
+    },
+    {
+        "id": "ICC2105",
+        "name": "Materiales de Ingenieria Civil",
+        "cr": 10,
+        
+        "hpw": 3,
+        "type": "D2"
+    },
+    {
+        "id": "IMT2118",
+        "name": "Ciencia de Datos Geoespaciales",
+        "cr": 10,
+        
+        "hpw": 8,
+        "type": "D4"
+    }
+]
