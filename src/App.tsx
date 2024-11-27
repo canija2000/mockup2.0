@@ -43,6 +43,19 @@ function App() {
           </div>
         </div>
       </header>
+      <section>
+        <i className="fas fa-important"></i>
+        <p className='font-bold'>Glosario</p>
+        <ul>
+          <li> <span className='font-bold'>Tipo 0</span></li>
+          <li> <span className='font-bold'>Tipo 1</span></li>
+          <li> <span className='font-bold'>Tipo 2</span></li>
+          <li> <span className='font-bold'>Tipo 3</span></li>
+          <li> <span className='font-bold'>Tipo 4</span></li>
+          <li> <span className='font-bold'>Tipo 5</span></li>
+        </ul>
+          
+      </section>
 
       <main className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-8">
         <div className="mb-6">
