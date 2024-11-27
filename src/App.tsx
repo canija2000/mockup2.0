@@ -43,18 +43,21 @@ function App() {
           </div>
         </div>
       </header>
-      <section>
-        <i className="fas fa-important"></i>
-        <p className='font-bold'>Glosario</p>
-        <ul>
-          <li> <span className='font-bold'>Tipo 0</span></li>
-          <li> <span className='font-bold'>Tipo 1</span></li>
-          <li> <span className='font-bold'>Tipo 2</span></li>
-          <li> <span className='font-bold'>Tipo 3</span></li>
-          <li> <span className='font-bold'>Tipo 4</span></li>
-          <li> <span className='font-bold'>Tipo 5</span></li>
-        </ul>
-          
+
+      <section className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-8">
+
+        <div className="bg-white rounded-lg shadow p-6">
+          <h2 className="text-xl font-bold text-gray-900 mb-4">Glosario</h2>
+          <ul className="list-disc list-inside text-gray-700">
+        <li><strong>Tipo 0:</strong> Contiene un peak de 25% o ningún peak</li>
+        <li><strong>Tipo 1:</strong> Contiene 2 peaks de 25% o 1 de 50%</li>
+        <li><strong>Tipo 2:</strong> Contiene 3 o más peaks de 25% o 2 de 50%</li>
+        <li><strong>Tipo 3:</strong> Contiene 1 de 50% y 1 de 100%</li>
+        <li><strong>Tipo 4:</strong> Contiene 2 de 50% y 1 de 100%</li>
+        <li><strong>Tipo 5:</strong> Contiene 2 o más de 100%</li>
+          </ul>
+        </div>
+
       </section>
 
       <main className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-8">
