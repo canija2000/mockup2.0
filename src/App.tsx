@@ -46,7 +46,7 @@ function App() {
 
       <section className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-8">
 
-        <div className="bg-white rounded-lg shadow p-6">
+        <div className="bg-indigo-50 rounded-lg shadow p-6">
           <h2 className="text-xl font-bold text-gray-900 mb-4">Glosario</h2>
           <ul className="list-disc list-inside text-gray-700">
         <li><strong>Tipo 0:</strong> Contiene un peak de 25% o ningún peak</li>
